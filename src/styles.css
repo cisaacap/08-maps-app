@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: lofi --default;
+}
+/* src/styles.css */
+@import 'mapbox-gl/dist/mapbox-gl.css';
